@@ -1,5 +1,5 @@
 ---
-title: "About me!"
+title: "About me"
 draft: false
 ---
 I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg University with [Bruno Nicenboim](https://bruno.nicenboim.me/) as my supervisor. I am working on the development of computational models of reading and sentence processing. The project will rely on methods and ideas from psycholinguistics, artificial intelligence, natural language processing, and Bayesian modeling.
