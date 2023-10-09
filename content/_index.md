@@ -17,7 +17,7 @@ I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg Uni
 
 **Natural Language Processing**
 
-- Projects using methods from Natural Language Processing to detect signals in large language corpora. The emoDynamics project aimed to detect dynamics in emotion expresion in tweets [[paper]](https://ceur-ws.org/Vol-3290/short_paper4765.pdf) [[GitHub repo]](https://github.com/saraoe/emoDynamics). Additionally, I have worked on developing tools for automatic discovery of emerging (conspirational) narratives.
+- Projects using methods from Natural Language Processing to detect signals in large text corpora. The emoDynamics project aimed to detect dynamics in emotion expresion in tweets [[paper]](https://ceur-ws.org/Vol-3290/short_paper4765.pdf) [[GitHub repo]](https://github.com/saraoe/emoDynamics). Additionally, I have worked on developing tools for automatic discovery of emerging (conspirational) narratives.
 
 **Meta Science**
 
