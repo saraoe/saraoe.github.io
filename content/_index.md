@@ -10,7 +10,7 @@ I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg Uni
 
 ### Interests
 
-**Bayesian (Cognitive) Modelling**
+**Bayesian (Cognitive) Modeling**
 
 - Bayesian modeling of complex behavior using Stan or brms. For my Master's thesis in Cognitive Science, I did a project on computational models of interpersonal categorization using a Bayesian workflow [[GitHub repo]](https://github.com/saraoe/bayesian_categorization).
 - Data analysis using Bayesian modeling techniques. As instructor for the course Bayesian Computational Modelling, I taught Bayesian data analysis based on Richard McElreath's book [Statistical Rethinking](https://github.com/rmcelreath/stat_rethinking_2022).
