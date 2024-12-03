@@ -1,7 +1,7 @@
 ---
 title: ""
 draft: false
-date: 2024-07-19
+date: 2024-12-03
 ---
 **Contact Information**
 - Email: s.m.ostergaard@tilburguniversity.edu
@@ -12,10 +12,11 @@ date: 2024-07-19
 - 2018 - 2021: B.Sc. in Cognitive Science and Mathematics. Aarhus University.
 
 **Teacing Experience**
-- Spring 2024: Teaching assistant in Bayesian Multilevel Models. Tilburg University.
-- Spring 2024: Teaching assistant in for Data Processing. Tilburg University
-- Spring 2023: Teaching assistant in for [Bayesian Computational Modelling](https://kursuskatalog.au.dk/en/course/115683/Methods-4-Bayesian-Computational-Modeling). Aarhus University.
-- Spring 2022: Teaching assistant in [Social Media and Communication](https://kursuskatalog.au.dk/en/course/110783/Social-Media-and-Communication). Aarhus University.
+- Fall 2024: Teaching assistant for Introduction to Cognitive Science. Tilburg University.
+- Spring 2024: Teaching assistant for Bayesian Multilevel Models. Tilburg University.
+- Spring 2024: Teaching assistant for Data Processing. Tilburg University
+- Spring 2023: Teaching assistant for [Bayesian Computational Modelling](https://kursuskatalog.au.dk/en/course/115683/Methods-4-Bayesian-Computational-Modeling). Aarhus University.
+- Spring 2022: Teaching assistant for [Social Media and Communication](https://kursuskatalog.au.dk/en/course/110783/Social-Media-and-Communication). Aarhus University.
 
 **Professional Experience**
 - 2021 - 2023: Junior Developer at [Center for Humanities Computing](https://chc.au.dk/).
