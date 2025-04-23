@@ -1,8 +1,13 @@
 ---
 title: ""
 draft: false
-date: 2023-10-06
+date: 2025-23-04
 ---
+
+### 2025
+
+- Nicenboim, B., Vugt, M. K. van, Alhama, R. G., Anderson, B., Bontje, F., Chimento, M., Columbus, S., Dalmaijer, E., Dotlacil, J., **Østergaard, S. M.**, Waade, P. T., Maanen, L. van, Ward, E. K., Winkowski, J., & Fusaroli, R. (2025). It takes a village to model complex behaviour: A community-based approach. PsyArXiv. https://doi.org/10.31234/osf.io/d2v54_v1
+
 
 ### 2023
 
