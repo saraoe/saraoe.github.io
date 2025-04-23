@@ -26,12 +26,6 @@
     weight = 1
 
 [[social]]
-    identifier = "twitter"
-    name = "Twitter"
-    url = "https://twitter.com/smoestergaard"
-    weight = 2
-
-[[social]]
     identifier = "linkedin"
     name = "Linkedin"
     url = "https://www.linkedin.com/in/sara-m%C3%B8ller-%C3%B8stergaard-14025a193/"
