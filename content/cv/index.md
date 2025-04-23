@@ -1,5 +1,8 @@
 ---
 title: ""
+draft: false
+type: taxonomies
+layout: "home"
 ---
 **Contact Information**
 - Email: s.m.ostergaard@tilburguniversity.edu
