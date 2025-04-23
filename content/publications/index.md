@@ -1,7 +1,5 @@
 ---
 title: ""
-draft: false
-date: 23-04-2025
 ---
 
 ### 2025
