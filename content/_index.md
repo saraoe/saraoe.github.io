@@ -4,7 +4,7 @@ draft: false
 ---
 I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg University with [Bruno Nicenboim](https://bruno.nicenboim.me/) as my supervisor. I am working on the development of computational models of reading and sentence processing. The project will rely on methods and ideas from psycholinguistics, artificial intelligence, natural language processing, and Bayesian modeling.
 
-[GitHub](https://github.com/saraoe) | [Twitter](https://twitter.com/smoestergaard) | [Linkedin](https://www.linkedin.com/in/sara-m%C3%B8ller-%C3%B8stergaard-14025a193/)
+[GitHub](https://github.com/saraoe) | [Linkedin](https://www.linkedin.com/in/sara-m%C3%B8ller-%C3%B8stergaard-14025a193/)
 
 ---
 
