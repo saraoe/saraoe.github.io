@@ -1,8 +1,6 @@
 ---
 title: ""
 draft: false
-type: taxonomies
-layout: "home"
 ---
 
 ### 2025

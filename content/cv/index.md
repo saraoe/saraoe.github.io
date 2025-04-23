@@ -1,8 +1,7 @@
 ---
 title: ""
 draft: false
-type: taxonomies
-layout: "home"
+date: 2024-07-19
 ---
 **Contact Information**
 - Email: s.m.ostergaard@tilburguniversity.edu
