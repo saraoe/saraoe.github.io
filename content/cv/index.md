@@ -1,7 +1,6 @@
 ---
 title: ""
 draft: false
-date: false
 ---
 **Contact Information**
 - Email: s.m.ostergaard@tilburguniversity.edu
