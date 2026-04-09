@@ -1,7 +1,7 @@
 ---
 title: ""
 draft: false
-date: 2025-04-23
+date: 2026-04-09
 ---
 **Contact Information**
 - Email: s.m.ostergaard@tilburguniversity.edu
@@ -12,11 +12,12 @@ date: 2025-04-23
 - 2018 - 2021: B.Sc. in Cognitive Science and Mathematics. Aarhus University.
 
 **Teacing Experience**
-- 2024 - 2025: Thesis second reader for Cognitive Science and AI, BSc. Tilburg University.
-- 2024: Teaching assistant for Introduction to Cognitive Science. Tilburg University.
+- 2026: Teaching assistant for Programming for Data Science. Tilburg University.
+- 2024 - 2026: Thesis second reader for Cognitive Science and AI, BSc. Tilburg University.
+- 2024 - 2025: Teaching assistant for Introduction to Cognitive Science. Tilburg University.
 - 2024: Thesis second reader for Data Science and Society, MA. Tilburg University.
-- 2024 - 2025: Teaching assistant for Bayesian Multilevel Models. Tilburg University.
-- 2024: Teaching assistant for Data Processing. Tilburg University
+- 2024 - 2026: Teaching assistant for Bayesian Multilevel Models. Tilburg University.
+- 2024: Teaching assistant for Data Processing. Tilburg University.
 - 2023: Teaching assistant for [Bayesian Computational Modelling](https://kursuskatalog.au.dk/en/course/115683/Methods-4-Bayesian-Computational-Modeling). Aarhus University.
 - 2022: Teaching assistant for [Social Media and Communication](https://kursuskatalog.au.dk/en/course/110783/Social-Media-and-Communication). Aarhus University.
 
