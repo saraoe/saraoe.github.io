@@ -1,10 +1,14 @@
 ---
 title: ""
 draft: false
-date: 2025-04-23
+date: 2026-04-09
 ---
 
 ### 2025
+
+- **Østergaard, S. M.**, Lichtenberg, L., Boon, L., & Nicenboim, B. (2025). A Corpus of Joint EEG and Self-Paced Reading of Natural Dutch Texts. PsyArXiv. https://doi.org/10.31234/osf.io/g32rp_v2
+
+
 
 - Nicenboim, B., Vugt, M. K. van, Alhama, R. G., Anderson, B., Bontje, F., Chimento, M., Columbus, S., Dalmaijer, E., Dotlacil, J., **Østergaard, S. M.**, Waade, P. T., Maanen, L. van, Ward, E. K., Winkowski, J., & Fusaroli, R. (2025). It takes a village to model complex behaviour: A community-based approach. PsyArXiv. https://doi.org/10.31234/osf.io/d2v54_v1
 
