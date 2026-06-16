@@ -12,7 +12,7 @@ I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg Uni
 
 **Computational Psycholinguistics**
 
-- Utilizing computational methods and, in particular, language models (LMs) for modeling reading and sentence processing. I have used LM embeddings for modeling effects of semantic association in reading times and ERPs (N400) [[Paper]] [[GitHub repo]](https://github.com/saraoe/semantic_association).
+- Utilizing computational methods and, in particular, language models (LMs) for modeling reading and sentence processing. I have used LM embeddings for modeling effects of semantic association in reading times and ERPs (N400) [[Paper]](https://doi.org/10.48550/arXiv.2606.07066) [[GitHub repo]](https://github.com/saraoe/semantic_association).
 - I have collected and published the Tilburg corpus of Natural Dutch Texts (TiNT). The corpus consists of joint recordings of EEG and self-paced reading times from 71 participants reading natural Dutch texts. The corpus is available through [[DataverseNL]](https://doi.org/10.34894/0O5XQ7) [[Paper]](https://doi.org/10.31234/osf.io/g32rp_v2).
 
 **Bayesian (Cognitive) Modeling**
@@ -22,4 +22,4 @@ I'm a PhD candidate at the department of Cognitive Science and AI at Tilburg Uni
 
 **Natural Language Processing**
 
-- Projects using methods from Natural Language Processing to detect signals in large text corpora. The emoDynamics project aimed to detect dynamics in emotion expresion in tweets [[paper]](https://ceur-ws.org/Vol-3290/short_paper4765.pdf) [[GitHub repo]](https://github.com/saraoe/emoDynamics). Additionally, I have worked on developing tools for automatic discovery of emerging (conspirational) narratives.
+- Projects using methods from Natural Language Processing to detect signals in large text corpora. The emoDynamics project aimed to detect dynamics in emotion expresion in tweets [[Paper]](https://ceur-ws.org/Vol-3290/short_paper4765.pdf) [[GitHub repo]](https://github.com/saraoe/emoDynamics). Additionally, I have worked on developing tools for automatic discovery of emerging (conspirational) narratives.
