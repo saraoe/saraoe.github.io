@@ -29,4 +29,10 @@
     identifier = "linkedin"
     name = "Linkedin"
     url = "https://www.linkedin.com/in/sara-m%C3%B8ller-%C3%B8stergaard-14025a193/"
+    weight = 2
+
+[[social]]
+    identifier = "scholar"
+    name = "Scholar"
+    url = "https://scholar.google.com/citations?user=EX3wgocAAAAJ&hl=da&oi=ao"
     weight = 3
